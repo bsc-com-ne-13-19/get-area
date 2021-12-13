@@ -1,4 +1,4 @@
-i
+
 public class Area{
 	public static void main (String [] args) {
 		// print a string
